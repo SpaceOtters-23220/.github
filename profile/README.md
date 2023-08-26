@@ -3,16 +3,16 @@
 
 # Space Otters Robotics Team
 
-Space Otters is a robotics team based in Pitesti, founded by the initiative of 10 high school students passionate about exact sciences and engineering. The team later expanded, welcoming several others with diverse inclinations.
+Space Otters is a robotics team based in Pitesti, founded by the initiative of 10 high school students passionate about all things science and engineering. The team later expanded, welcoming several others with diverse inclinations.
 
 ## Team Overview
 
-- **Members:** Students in grades 9 to 12, including Olympiad winners in National and International stages of Informatics, Applied Informatics, and Information Technology Olympiads.
-- **Experience:** Some team members have experience in the FTC field, reaching the national stage of the competition and earning technical prizes.
+- **Members:** Students in grades 9 to 12, including Olympiad winners in National and International stages of Robotics, Informatics, Applied Informatics, and Information Technology Olympiads.
+- **Experience:** Several team members have experience in the FIRST Tech Challenge field, reaching the national stage of the competition and earning technical prizes.
 
 ## Mentors and Support
 
-- **Mentors:** Experienced mentors teach computer science and English, guiding the team and facilitating hands-on learning.
+- **Mentors:** Experienced mentors teach Computer Science and English, guiding the team and facilitating hands-on learning.
 - **Engineers:** Expert engineers provide valuable insights and suggestions.
 - **Peer Mentors:** Students from technical faculties and international institutions like Hanze University of Applied Sciences offer support, fresh perspectives, and technical/financial assistance.
 
