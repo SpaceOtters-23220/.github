@@ -1,11 +1,6 @@
 # 👋 Hi, we are @SpaceOttersFtc 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 # Space Otters Robotics Team
 
 Space Otters is a robotics team based in Pitesti, founded by the initiative of 10 high school students passionate about exact sciences and engineering. The team later expanded, welcoming several others with diverse inclinations.
@@ -51,14 +46,6 @@ The team proudly represents "Ion Cantacuzino" Theoretical High School, though it
 <p>
 	<a href="mailto:spaceottersftc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-[contributors-shield]: https://img.shields.io/github/contributors/SpaceOttersFtc/Robot.svg?style=for-the-badge
-[contributors-url]: https://github.com/SpaceOttersFtc/Robot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SpaceOttersFtc/Robot.svg?style=for-the-badge
-[forks-url]: https://github.com/SpaceOttersFtc/Robot/network/members
-[stars-shield]: https://img.shields.io/github/stars/SpaceOttersFtc/Robot.svg?style=for-the-badge
-[stars-url]: https://github.com/SpaceOttersFtc/Robot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SpaceOttersFtc/Robot.svg?style=for-the-badge
-[issues-url]: https://github.com/SpaceOttersFtc/Robot/issues
 <!---
 SpaceOttersFtc/SpaceOttersFtc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
