@@ -1,5 +1,5 @@
 # 👋 Hi, we are @SpaceOttersFtc 
-<img src="https://github.com/Al3x-Myku/Al3x-Myku/blob/master/photos/DOG.png" width="100">
+
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
