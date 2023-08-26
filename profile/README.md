@@ -1,4 +1,5 @@
-# 👋 Hi, we are @SpaceOttersFtc
+# 👋 Hi, we are @SpaceOttersFtc 
+<img src="https://github.com/Al3x-Myku/Al3x-Myku/blob/master/photos/DOG.png" width="100">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -24,10 +25,6 @@ Space Otters is a robotics team based in Pitesti, founded by the initiative of 1
 
 The team proudly represents "Ion Cantacuzino" Theoretical High School, though its members hail from various educational institutions, including "Ion C. Brătianu" National College.
 
-
-# Projects
-
-
 ---
 
 # Technologies
@@ -50,7 +47,7 @@ The team proudly represents "Ion Cantacuzino" Theoretical High School, though it
 --- 
 
 ### Contact
-- 📫 How to reach me:
+- 📫 How to reach us:
 <p>
 	<a href="mailto:spaceottersftc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
