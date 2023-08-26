@@ -1,4 +1,4 @@
-# 👋 Hi, we are @SpaceOttersFtc 
+# 👋 Hi, we are @SpaceOtters
 
 
 # Space Otters Robotics Team
@@ -12,7 +12,7 @@ Space Otters is a robotics team based in Pitesti, founded by the initiative of 1
 
 ## Mentors and Support
 
-- **Educators:** Experienced mentors teach computer science and English, guiding the team and facilitating hands-on learning.
+- **Mentors:** Experienced mentors teach computer science and English, guiding the team and facilitating hands-on learning.
 - **Engineers:** Expert engineers provide valuable insights and suggestions.
 - **Peer Mentors:** Students from technical faculties and international institutions like Hanze University of Applied Sciences offer support, fresh perspectives, and technical/financial assistance.
 
