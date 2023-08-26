@@ -24,7 +24,7 @@ The team proudly represents "Ion Cantacuzino" Theoretical High School, though it
 
 
 # Technologies we use
-### Langueges
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ### Frameworks, Platforms and Libraries
 ![ROS](https://img.shields.io/badge/ROS-blue.svg?style=for-the-badge&logo=ros&logoColor=white)
