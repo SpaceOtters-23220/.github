@@ -27,7 +27,7 @@ The team proudly represents "Ion Cantacuzino" Theoretical High School, though it
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ### Frameworks, Platforms and Libraries
-![ROS](https://img.shields.io/badge/ROS-blue.svg?style=for-the-badge&logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=orange)
 ![Arduino Studio](https://img.shields.io/badge/Arduino%20Studio-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ### Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
